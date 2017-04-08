@@ -14,11 +14,8 @@
 [![asciicast](https://asciinema.org/a/emrvroa9054hz6k8ise0uxh2u.png)](https://asciinema.org/a/emrvroa9054hz6k8ise0uxh2u)
 
 ``` bash
-hexo init Blog 
-cd Blog 
-npm install
 npm install --save hexo-renderer-jade hexo-generator-feed hexo-generator-sitemap hexo-browsersync hexo-generator-archive
-git clone https://github.com/pinggod/hexo-theme-apollo.git themes/apollo
+git clone https://github.com/lovenery/hexo-theme-apollo.git themes/apollo
 ```
 
 ## 启用
